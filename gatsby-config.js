@@ -11,6 +11,7 @@ module.exports = {
       twitter: `kylemathews`,
     },
   },
+  assetPrefix: 'https://cdn.jsdelivr.net/gh/leadream/juuun.io@gh-pages',
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
